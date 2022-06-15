@@ -122,7 +122,7 @@ double account_deposit(std::string& data)
  double amount = 0;
  return amount += 1.1;
 }
-//
+// es function chem jogum
 
 
 double account_withdraw(std::string& data)
@@ -138,4 +138,4 @@ double account_withdraw(std::string& data)
     return amount -= 1.1;
   }
 }
-
+// xia menak hanum 1.1??

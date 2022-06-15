@@ -1,0 +1,17 @@
+
+  "Input": [
+
+    {
+      "type": "deposit",
+      "client_id": 2,
+      "amount": 3.0
+    },
+
+    {
+      "type": "withdraw",
+      "client_id": 2,
+      "amount": 2.0
+    }
+  ]
+
+
